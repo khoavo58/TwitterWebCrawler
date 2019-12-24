@@ -1,13 +1,5 @@
-# finalproject-star
-### Authors: Aaron Sanders, Than Phan, Khoa Vo
+### Authors: Aaron Sanders, Khoa Vo, Than Phan
 
-__Collaboration Details:__
-
-Aaron - wrote tweepy crawler and generated/collected the 1 GB of data in json format
-
-Than - implemented Lucene index (elasticsearch)
-
-Khoa - built web UI using Python Tornado Web Server and web application framework
 
 __spec:__ 
 ``` 
