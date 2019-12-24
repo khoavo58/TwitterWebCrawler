@@ -1,4 +1,4 @@
-# Aaron Sanders (asand017) - tweets.py: Twitter crawler 
+# tweets.py: Twitter crawler 
 
 import tweepy
 import json
