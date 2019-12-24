@@ -42,7 +42,6 @@ __Source codes:__
 *tweet.json
 *tweets.py
 *README.md
-*CS172 final report.pdf
 ```
 
 __Link it Crawled Data (Too Big for Github Push and Large File Extension Not Cooperating__
