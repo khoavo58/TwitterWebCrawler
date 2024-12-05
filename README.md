@@ -1,4 +1,4 @@
-### Authors: Aaron Sanders, Khoa Vo, Than Phan
+### Authors: Khoa Vo, Than Phan, Aaron Sanders
 
 
 __spec:__ 
